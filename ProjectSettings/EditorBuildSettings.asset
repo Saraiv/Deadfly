@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu_Remaster.unity
+    guid: b6e3d3f557ea20d408983003df2e3f99
+  - enabled: 1
+    path: Assets/Settings_Remaster.unity
+    guid: ae1ae57bb5b62234ab0ff16d63da9975
+  - enabled: 1
+    path: Assets/Level_Tutorial_Remaster.unity
+    guid: f3563a437d61c35449a2b62c14ce181a
+  - enabled: 1
+    path: Assets/Level_Park_Remaster.unity
+    guid: 3ec5950df204e2f42a10dca9ec0db3c0
+  - enabled: 1
+    path: Assets/Level_Street_Remaster.unity
+    guid: 5cc3f6b377336f94e9af8398f821be2a
   m_configObjects: {}

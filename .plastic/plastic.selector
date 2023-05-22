@@ -1,0 +1,4 @@
+repository "Deadfly@Mariana03@cloud"
+  path "/"
+    br "/main"
+    co "/main"
